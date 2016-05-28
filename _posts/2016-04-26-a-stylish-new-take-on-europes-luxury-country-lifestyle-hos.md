@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "Avytage is an edited guide to the luxurious world of Europe's country lifestyle.A hotel and travel guide for the modern discerning traveller, a lifestyle magazine,a traditionalist and a creative hub to worldly, but fiercely local pleasures."
-datePublished: '2016-05-28T03:55:10.975Z'
-dateModified: '2016-05-28T03:55:05.302Z'
-title: "A stylish new take on Europe's luxurycountry lifestyle, hospitality and travel"
-author: []
+description: "Avytage is an edited guide to the luxurious world of Europe's country lifestyle. A hotel and travel guide for the modern discerning traveller, a lifestyle magazine, a traditionalist and a creative hub to worldly, but fiercely local pleasures."
+datePublished: '2016-05-28T04:03:53.337Z'
+dateModified: '2016-05-28T04:03:37.242Z'
+title: "A stylish new take on Europe's luxury country lifestyle, hospitality and travel"
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-26-a-stylish-new-take-on-europes-luxury-country-lifestyle-hos.md
 authors: []
 publisher: null
@@ -19,7 +21,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb214860-73e8-4121-a142-95c8c5bef890.jpg)
 
-# A stylish new take on Europe's luxury  
+## A stylish new take on Europe's luxury  
 country lifestyle, hospitality and travel
 
 Avytage is an edited guide to the luxurious world of Europe's country lifestyle.  
